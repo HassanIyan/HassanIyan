@@ -69,7 +69,6 @@ A lightweight package for generating random Thaana text — ideal for UI and loc
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/hassan_iyaaan/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/h_iyaaan)
 
-📧 **Email:** [hassan.iyan.abdul.r@gmail.com](mailto:hassan.iyan.abdul.r@gmail.com)
 🌍 **Portfolio:** [iyaan.vercel.app](https://iyaan.vercel.app)
 
 ---

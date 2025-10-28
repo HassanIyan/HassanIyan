@@ -57,7 +57,7 @@ A lightweight package for generating random Thaana text — ideal for UI and loc
 
 ![Iyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanIyan&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanIyan&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanIyan&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HassanIyan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 

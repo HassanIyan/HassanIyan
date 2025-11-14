@@ -7,7 +7,7 @@
 ### 🧠 About Me
 
 I’m a passionate full-stack developer based in **Malé, Maldives**, specializing in crafting **modern, scalable web and mobile applications**.
-With expertise across **Next.js**, and **React Native**, I focus on creating solutions that are efficient, maintainable, and impactful.
+With expertise across **Next.js**, and **React Native**, I focus on creating solutions that are efficient, maintainable and impactful.
 I enjoy exploring **automation, AI integrations**, and **cutting-edge tools** that simplify complex workflows and improve system performance.
 
 ---

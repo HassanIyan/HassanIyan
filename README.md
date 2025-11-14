@@ -53,7 +53,7 @@ A lightweight package for generating random Thaana text — ideal for UI and loc
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activities
 
 ![Iyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanIyan&show_icons=true&theme=tokyonight&hide_border=true)
 

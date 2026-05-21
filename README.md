@@ -1,72 +1,28 @@
-# 👋 Hi, I'm Hassan Iyan Abdul Raheem
+<h1 align="center">Hi 👋, I'm HassanIyan</h1>
+<h3 align="center">I’m a developer based in Malé, Maldives, focused on building efficient and maintainable applications. My work primarily revolves around the React ecosystem and backend architecture, with an ongoing focus on automation, system performance, and clean UI.</h3>
 
-### 💻 Full Stack Web & Mobile Developer | Building Scalable Digital Experiences
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaniyan&label=Profile%20views&color=0e75b6&style=flat" alt="hassaniyan" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassaniyan" alt="hassaniyan" /></a> </p>
 
-### 🧠 About Me
+<p align="left"> <a href="https://twitter.com/h_iyaaan" target="blank"><img src="https://img.shields.io/twitter/follow/h_iyaaan?logo=twitter&style=for-the-badge" alt="h_iyaaan" /></a> </p>
 
-I’m a developer based in Malé, Maldives, focused on building efficient and maintainable applications. My work primarily revolves around the React ecosystem and backend architecture, with an ongoing focus on automation, system performance, and clean UI.
+- 🔭 I’m currently working on [Sikundi Workspace](http://sikundi.io)
 
----
+- 💬 Ask me about **Nextjs, expo, react native, drizzle, prisma, redis**
 
-### ⚙️ Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/h_iyaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h_iyaaan" height="30" width="40" /></a>
+<a href="https://fb.com/hassan.iyan.abdul.raheem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassan.iyan.abdul.raheem" height="30" width="40" /></a>
+<a href="https://instagram.com/hassan_iyaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan_iyaaan" height="30" width="40" /></a>
+</p>
 
-#### 💠 Core Domains
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-`Frontend` • `Backend` • `Database` • `Automation` • `AI`
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassaniyan&show_icons=true&locale=en&layout=compact" alt="hassaniyan" /></p>
 
-#### 🧩 Technologies & Tools
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassaniyan&show_icons=true&locale=en" alt="hassaniyan" /></p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge\&logo=expo\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge\&logo=nginx\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=for-the-badge\&logo=drizzle\&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge\&logo=react\&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN%20UI-000000?style=for-the-badge)
-
----
-
-### 🚀 Featured Projects
-
-#### 🧭 **Sikundi Workplace** *(Closed Source SaaS)*
-
-A modern workplace suite inspired by Odoo — rebuilt for simplicity, performance, and modularity.
-
-#### ⚡ **Foolhudhiguhandi**
-
-A Node.js-based tool engineered to send large volumes of requests to specified links, designed for improving website analytics and testing throughput.
-🔗 [View Repository](#)
-
-#### 🔤 **Thaana Faker**
-
-A lightweight package for generating random Thaana text — ideal for UI and localization testing.
-🔗 [View Repository](#)
-
----
-
-### 📊 GitHub Stats & Activities
-
-![Iyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanIyan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanIyan&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HassanIyan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-### 🌐 Connect with Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://web.facebook.com/hassan.iyan.abdul.raheem)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/hassan_iyaaan/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/h_iyaaan)
-
----
-
-> *“Clean code, consistent architecture, and thoughtful automation — that’s how great systems are built.”*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassaniyan&" alt="hassaniyan" /></p>
